@@ -1,0 +1,31 @@
+.navbar-brand img {
+    height: 30px;
+    width: 30px;
+}
+.mountain {
+    background-image: url(mountains.jpg);
+    height: 70%;
+}
+.mountain .dreampad {
+    text-align: center;
+    padding-top: 150px;
+    color: white;
+}
+.book {
+    height: 70vh;
+}
+.mountain {
+    background-color: rgba(0, 255, 136, 0.801);
+}
+.topbutton {
+    background-color: aqua;
+    border: 1px solid black;
+    color: white;
+}
+.bgblack {
+    background-color: black;
+    height: 20vh;
+}
+.bgblack div {
+    padding-top: 50px;
+}
